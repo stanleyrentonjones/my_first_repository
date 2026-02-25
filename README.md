@@ -5,4 +5,4 @@ First respository for Sci Prog
 
 We can write here in Markdown - possible to write in bold as **Markdown**
 
-We can also add links to webpages using Markdown syntax
+We can also add links to webpages using Markdown syntax - eg [here is my website](https://stanleyrentonjones.wordpress.com/)
